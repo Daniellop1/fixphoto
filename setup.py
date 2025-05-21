@@ -10,7 +10,7 @@ setup(
             "fixphoto=fixphoto.cli:cli",
         ],
     },
-    author="Your Name",
+    author="Daniel López Pérez",
     description="CLI tool to fix file timestamps and EXIF metadata for Google Takeout photos",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
