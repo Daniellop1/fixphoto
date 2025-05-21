@@ -1,4 +1,4 @@
-# fixphoto
+# Fixphoto
 
 `fixphoto` is a command-line tool that corrects system file timestamps and EXIF metadata for photos exported via Google Takeout.
 
