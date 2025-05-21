@@ -12,6 +12,6 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/fixphoto-cli.git
+git clone https://github.com/daniellop1/fixphoto-cli.git
 cd fixphoto-cli
 pip install .
